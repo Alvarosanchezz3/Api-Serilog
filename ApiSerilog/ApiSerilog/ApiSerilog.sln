@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiSerilog", "ApiSerilog.csproj", "{367BA5C3-C405-4744-A001-9588F5C8CF9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA0640EE-A862-43ED-8241-297C95859896}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367BA5C3-C405-4744-A001-9588F5C8CF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367BA5C3-C405-4744-A001-9588F5C8CF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367BA5C3-C405-4744-A001-9588F5C8CF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367BA5C3-C405-4744-A001-9588F5C8CF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF93C36-9789-43BD-8DD1-2156593E184A}
+	EndGlobalSection
+EndGlobal
